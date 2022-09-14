@@ -1,0 +1,34 @@
+
+
+- HTTPS - é um protocolo de redes muito similar ao HTTP só que possui uma camada de segurança, que é chamada de SSL, ou TLS (uma versão mais recente dessa camada de segurança).
+Sigla significa - HyperText Transfer Protocol Secure Socket Layer/ Transport Layer Security.
+
+OBS: os dados passados no protocolo HTTPS são criptografados.
+
+- Requisição - é um pedido de informação que o cliente faz ao servidor, visando receber uma resposta para completar uma ação.
+
+EX: quando vamos fazer um login em um site é necessário que o browser solicite uma confirmação do servidor se os dados inseridos são válidos.
+
+As requisições podem ser verificadas no browser na area de Ferramentas do desenvolvedor na aba de network.
+
+- Outros exemplos de protocolos da internet - 
+FTP - File Transport Protocol utilizado para transferir arquivos.
+
+- BitTorrent - é um protocolo e um aplicativo para troca de 
+arquivos na internet.
+
+SMTP - Simple Mail Transfer Protocol protocolo utilizado para 
+o envio de emails.
+
+- P2P - Outro tipo de modelo de arquitetura de redes que é utilizado de forma distribuida, onde cada cliente tem um pouco do trabalho do servidor assim não sobrecarregando o servidor.
+Muito utilizado quando é necessário distribuir um trabalho ou 
+necessita baixar algo de vários lugares diferentes.
+
+- HTTP - é um protocolo web, um conjunto de regras bem definidas
+de comunicação entre o servidor e os clientes(browsers).
+Já possui a versão 2 mas a versão 1 ainda é muito utilizada.
+A sigla significa - HyperText Transfer Protocol.
+
+OBS: o HTTP trafega texto puro.
+
+- Cliente-Servidor: Modelo de arquitetura de servidores web, com regras de comunicação bem definidas.

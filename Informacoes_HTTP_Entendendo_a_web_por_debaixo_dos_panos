@@ -1,4 +1,29 @@
+- A porta 80 é a porta default de um servidor quando utilizamos o protocolo HTTP, já quando usamos o protocolo HTTPS a porta default é a 443
 
+- DNS - Domain Name System, é um serviço que verifica o nome do domínio e devolve um endereço ip
+
+- uma url é um endereço na web é composta inicialmente pelo protocolo comumente o HTTP
+ou HTTPS e posteriormente pelo Dominio, a raiz do dominio identifica se esta página é:
+COM - uma página comercial
+BR - o páis de origem da página
+ORG - se é uma organização e etc
+
+o Subdominio identifica se esta pagina é:
+COM - uma página comercial
+GOV - uma página governamental 
+EDU - uma página educacional
+
+Depois de identificar o protocolo e o dominio, pode também ser identificado a porta, e também a area de recurso, que seria informações adicionais,  um curso por exemplo em um site escolar.
+EX: 
+HTTPS - Protocolo
+://WWW.alura.com.br - Dominio
+:443 - Porta
+/COURSE/INTRODUCAO-HTML-CSS - Area de recurso
+
+HTTPS://WWW.alura.com.br:443/COURSE/INTRODUCAO-HTML-CSS
+
+OBS: o comando nslookup indica o endereço e o dominio de uma página
+EX: nslookup google.com
 
 - HTTPS - é um protocolo de redes muito similar ao HTTP só que possui uma camada de segurança, que é chamada de SSL, ou TLS (uma versão mais recente dessa camada de segurança).
 Sigla significa - HyperText Transfer Protocol Secure Socket Layer/ Transport Layer Security.

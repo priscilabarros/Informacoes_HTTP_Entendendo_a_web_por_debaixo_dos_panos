@@ -1,3 +1,9 @@
+- Cookie - gera um hash de numero para identificar um usuario
+
+- SESSÃO -  mantém o usuário logado, envia um código identificando que este usuário já fez o login na página em algum momento.
+
+- STATELESS - quando o protocolo não guarda status, cada requisição é única.
+           
 - A porta 80 é a porta default de um servidor quando utilizamos o protocolo HTTP, já quando usamos o protocolo HTTPS a porta default é a 443
 
 - DNS - Domain Name System, é um serviço que verifica o nome do domínio e devolve um endereço ip

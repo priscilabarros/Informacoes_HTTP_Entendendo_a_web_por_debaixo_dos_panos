@@ -1,3 +1,18 @@
+- Atalhos para abrir a area de desenvolvdor em um browser:
+CTRL + SHIFT + I ou F12
+
+- Status code - são respostas identificadas por numeros especificos que refletem o estato atual da pagina.
+EX: 
+200 - resposta positiva de quando d'certo a requisição. 
+301 - foi movida, a pagina sofreu um redirecionamento
+404 - não encontrou a pagina
+500 - erro de processamento
+
+
+
+
+- GET - é um metodo de busca, de requisição , quando o cliente solicita alguma coisa.
+
 - Cookie - gera um hash de numero para identificar um usuario
 
 - SESSÃO -  mantém o usuário logado, envia um código identificando que este usuário já fez o login na página em algum momento.

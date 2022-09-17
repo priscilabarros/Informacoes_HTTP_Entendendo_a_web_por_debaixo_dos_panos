@@ -1,3 +1,12 @@
+- REST - Representational State Transfer , é uma maneira de lidar com os recursos web .
+
+É um padrão de arquitetura para possibilitar a comunicação entre aplicações, aproveita a estrutura do HTTP proporciona.
+
+RECURSO(URI) X Operações( GET/POST/PUT/DELETE) X REPRESENTAÇÃO( JSON/XML/HTML)
+
+
+- Web service - são aplicações que disponibilizam serviços para outras.
+
 - ? serve para identificar um parametro em uma url.
 
 - & serve para concatenar parametros em uma url.

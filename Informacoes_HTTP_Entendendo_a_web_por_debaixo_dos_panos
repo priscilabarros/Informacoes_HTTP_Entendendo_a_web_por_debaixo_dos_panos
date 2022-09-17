@@ -1,3 +1,7 @@
+- ? serve para identificar um parametro em uma url.
+
+- & serve para concatenar parametros em uma url.
+
 - Atalhos para abrir a area de desenvolvdor em um browser:
 CTRL + SHIFT + I ou F12
 
@@ -8,8 +12,11 @@ EX:
 404 - não encontrou a pagina
 500 - erro de processamento
 
+- DELETE - é um metodo de remoção de um recurso.
 
+- PUT - é um metodo de atualização de um recurso.
 
+- POST - é um metodo de envio de informações, em uma requisição , quando o cliente envia algum dado .
 
 - GET - é um metodo de busca, de requisição , quando o cliente solicita alguma coisa.
 

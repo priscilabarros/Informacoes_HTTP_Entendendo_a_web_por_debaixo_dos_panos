@@ -1,3 +1,9 @@
+- Server Push - quando o server envia dados sem o cliente ter requisitado.
+
+- HTTP 2 - uma nova versão do protocolo HTTP, utiliza o compressor de dados GzIP no servidor como padrão, nesta nova versão os headers passam a ser binários e são comprimidos por um arquivo chamado HPACK.Não é necessário repetir os header em um request.
+
+- GZIP -  comprime arquivos e texto é habilitado no servidor quando utilizamos a versão 1 do HTTP, para melhorar a performance no http 2 o GZIP é padrão e obrigatório.
+
 - REST - Representational State Transfer , é uma maneira de lidar com os recursos web .
 
 É um padrão de arquitetura para possibilitar a comunicação entre aplicações, aproveita a estrutura do HTTP proporciona.
